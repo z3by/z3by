@@ -1,3 +1,7 @@
+<p align="center"> 
+  <img src="./header.png">
+</p>
+
 # Ahmad Mostafa
 
 - [https://ahmadmostafa.com](https://ahmadmostafa.com)
