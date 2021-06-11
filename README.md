@@ -14,13 +14,12 @@ I'm a passionate, persistent, self-directed, autonomous learner Full Stack Softw
 
 ## Stay in touch
 
+<div align="center">
 <a href="https://ahmadmostafa.com">
   <img height="30" width="30" src="./internet.png">
 </a>
 <a href="https://www.linkedin.com/in/z3by/">
   <img height="30" width="30" src="./linkedin.png">
 </a>
+</div>
 
-
-
-![You are the visitor number](https://komarev.com/ghpvc/?username=z3by)
