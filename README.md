@@ -8,9 +8,6 @@ I'm a passionate, persistent, self-directed, autonomous learner Full Stack Softw
 
 <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=z3by&count_private=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z3by)
-
-
 
 ## Stay in touch
 
