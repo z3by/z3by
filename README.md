@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z3by" alt="z3by" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://z3by.com/projects](https://z3by.com/projects)
-
-- 📝 I write articles sometimes on [https://z3by.com](https://z3by.com)
+- 📝 I write articles sometimes on [https://ahmadmostafa.com](https://ahmadmostafa.com)
 
 - 💬 Ask me about **Python, Django, AWS, Vue.js, Javascript, Node.js**
 
