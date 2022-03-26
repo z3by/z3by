@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="./header.png" />
+<img align="center" width="100%" src="./header-img.png" />
 
 <h1 align="center">Hi 👋, I'm Ahmad Mostafa</h1>
 <h3 align="center">I'm a passionate full-stack software engineer. I Enjoy building web apps using the cutting-edge web technologies.</h3>
