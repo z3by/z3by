@@ -1,7 +1,7 @@
 <img align="center" width="100%" src="./header.png" />
 
 <h1 align="center">Hi 👋, I'm Ahmad Mostafa</h1>
-<h3 align="center">I'm a passionate full-stack software engineer from Syria. I Enjoy building web apps using the cutting-edge web technologies.</h3>
+<h3 align="center">I'm a passionate full-stack software engineer. I Enjoy building web apps using the cutting-edge web technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z3by&label=Profile%20views&color=0e75b6&style=flat" alt="z3by" /> </p>
 
