@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z3by&label=Profile%20views&color=0e75b6&style=flat" alt="z3by" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z3by" alt="z3by" /></a> </p>
 
 - 📝 I write articles sometimes on [https://ahmadmostafa.com](https://ahmadmostafa.com)
 
